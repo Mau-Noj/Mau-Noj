@@ -31,6 +31,7 @@ jobs:
             "La infraestructura es poesía cuando nadie la nota."
             "Automatiza lo repetitivo. Piensa en lo que importa."
             "En ingeniería, la elegancia no es opcional — es eficiencia disfrazada."
+            "Gano o Aprendo, Nunca pierdo..."
           )
 
           RANDOM_INDEX=$((RANDOM % ${#QUOTES[@]}))
