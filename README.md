@@ -126,12 +126,8 @@ frase     : "Que tu análisis inspire grandes sistemas"
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mau-Noj&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img height="175em" src="https://streak-stats.demolab.com/?user=Mau-Noj&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau-Noj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mau-Noj&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
 
 <br/>
 
