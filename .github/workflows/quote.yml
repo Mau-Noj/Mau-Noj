@@ -1,0 +1,47 @@
+name: 💬 Daily Quote
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Cada día a las 6am UTC (12am Guatemala)
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pick random quote and update README
+        run: |
+          QUOTES=(
+            "Un sistema bien diseñado no se nota — solo funciona."
+            "La luna ha inspirado a muchos poetas… que tu análisis inspire grandes sistemas."
+            "Arch Linux: porque la simplicidad tiene que ganarse."
+            "Todo problema de ingeniería es un problema de diseño mal entendido."
+            "El mejor código es el que no necesitas escribir."
+            "Diseña para el cambio, no para la perfección."
+            "Un buen arquitecto construye puertas, no paredes."
+            "El caos no es el problema — no tener un sistema para manejarlo sí lo es."
+            "Documenta como si el próximo desarrollador fuera tú, seis meses después."
+            "La infraestructura es poesía cuando nadie la nota."
+            "Automatiza lo repetitivo. Piensa en lo que importa."
+            "En ingeniería, la elegancia no es opcional — es eficiencia disfrazada."
+          )
+
+          RANDOM_INDEX=$((RANDOM % ${#QUOTES[@]}))
+          QUOTE="${QUOTES[$RANDOM_INDEX]}"
+
+          # Reemplaza el bloque entre los marcadores en el README
+          sed -i "s|<!-- QUOTE_START -->.*<!-- QUOTE_END -->|<!-- QUOTE_START -->*\"${QUOTE}\"*<!-- QUOTE_END -->|g" README.md
+
+      - name: Commit updated README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || (git add README.md && git commit -m "💬 frase del día actualizada")
+          git push

@@ -2,8 +2,6 @@
 
 <img src="https://assets.mauricionoj.com/projects/Banner.png" alt="Brandon Mauricio Noj" width="100%" />
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Brandon%20Mauricio%20Noj&fontAlign=50&fontColor=58A6FF&fontSize=46&fontAlignY=60&desc=Systems%20Engineer%20%C2%B7%20Open%20Source%20Advocate%20%C2%B7%20Content%20Creator&descAlign=50&descAlignY=85&descSize=14&descColor=4A7FA5" width="100%" alt="Brandon Mauricio Noj" />
 
 <a href="https://mauricionoj.com">
@@ -39,8 +37,11 @@ estudios  :
 ex-rol    : Teaching Assistant — Análisis y Diseño 2
 contenido : "Programando con Pepito" en YouTube
 pasión    : Open Source · Linux · Arquitectura de Sistemas
-frase     : "Que tu análisis inspire grandes sistemas"
 ```
+
+<br/>
+
+> 💬 <!-- QUOTE_START -->_"Un sistema bien diseñado no se nota — solo funciona."_<!-- QUOTE_END -->
 
 <br clear="right"/>
 
@@ -97,6 +98,7 @@ frase     : "Que tu análisis inspire grandes sistemas"
 <div align="center">
 
 #### 🔤 Lenguajes
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,6 +107,7 @@ frase     : "Que tu análisis inspire grandes sistemas"
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🧰 Frameworks & Plataformas
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -113,6 +116,7 @@ frase     : "Que tu análisis inspire grandes sistemas"
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### 🖥️ Entorno
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -137,11 +141,23 @@ frase     : "Que tu análisis inspire grandes sistemas"
 
 ---
 
+## 🐍 Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mau-Noj/Mau-Noj/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mau-Noj/Mau-Noj/output/github-snake.svg" />
+    <img alt="Snake comiendo contribuciones" src="https://raw.githubusercontent.com/Mau-Noj/Mau-Noj/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 📺 Programando con Pepito
 
 <div align="center">
 
-> *Tutoriales de ingeniería de software, sistemas y arquitectura — en español, para la comunidad latinoamericana 🌎*
+> _Tutoriales de ingeniería de software, sistemas y arquitectura — en español, para la comunidad latinoamericana 🌎_
 
 <br/>
 
@@ -161,6 +177,6 @@ frase     : "Que tu análisis inspire grandes sistemas"
 
 <br/><br/>
 
-*Hecho con 💙 desde Guatemala 🇬🇹 · Powered by caffeine & Arch Linux*
+_Hecho con 💙 desde Guatemala 🇬🇹 · Powered by caffeine & Arch Linux_
 
 </div>
