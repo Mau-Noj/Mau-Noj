@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Brandon%20Mauricio%20Noj&fontAlign=50&fontColor=58A6FF&fontSize=46&fontAlignY=60&desc=Systems%20Engineer%20%C2%B7%20Open%20Source%20Advocate%20%C2%B7%20Content%20Creator&descAlign=50&descAlignY=85&descSize=14&descColor=4A7FA5" width="100%" alt="Brandon Mauricio Noj" />
+
 <a href="https://mauricionoj.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=La+luna+ha+inspirado+a+muchos+poetas...+que+tu+an%C3%A1lisis+inspire+grandes+sistemas." alt="Frase" />
 </a>
