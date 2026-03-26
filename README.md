@@ -47,13 +47,22 @@ I am a multidisciplinary Engineering student (Senior/Final Year) specializing in
 
 ---
 
-### 📊 GitHub Statistics
+---
+
+### 📊 GitHub Metrics & Achievements
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mau-Noj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mau-Noj&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mau-Noj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="General Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mau-Noj&theme=tokyonight" alt="GitHub Streak" height="180em" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau-Noj&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="165em" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Mau-Noj&theme=tokyonight&column=3&margin-w=15" alt="Trophies" />
+</p>
+
+---
 ---
 
 ### 📫 Let's Connect
