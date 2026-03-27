@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->_"Un sistema bien diseñado no se nota — solo funciona."_<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Diseña para el cambio, no para la perfección."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
