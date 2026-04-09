@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"La infraestructura es poesía cuando nadie la nota."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Arch Linux: porque la simplicidad tiene que ganarse."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
