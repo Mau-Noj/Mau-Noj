@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Diseña para el cambio, no para la perfección."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Todo problema de ingeniería es un problema de diseño mal entendido."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
