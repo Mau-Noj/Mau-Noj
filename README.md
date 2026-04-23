@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Todo problema de ingeniería es un problema de diseño mal entendido."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Un sistema bien diseñado no se nota — solo funciona."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
