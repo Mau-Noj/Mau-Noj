@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"En ingeniería, la elegancia no es opcional — es eficiencia disfrazada."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Documenta como si el próximo desarrollador fuera tú, seis meses después."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
