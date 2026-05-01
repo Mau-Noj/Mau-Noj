@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Gano o Aprendo, Nunca pierdo..."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"El caos no es el problema — no tener un sistema para manejarlo sí lo es."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
