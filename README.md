@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Diseña para el cambio, no para la perfección."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"La luna ha inspirado a muchos poetas… que tu análisis inspire grandes sistemas."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
