@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"El caos no es el problema — no tener un sistema para manejarlo sí lo es."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Arch Linux: porque la simplicidad tiene que ganarse."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
