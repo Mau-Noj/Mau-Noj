@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"El mejor código es el que no necesitas escribir."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Gano o Aprendo, Nunca pierdo..."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
