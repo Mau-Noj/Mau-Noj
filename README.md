@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"La luna ha inspirado a muchos poetas… que tu análisis inspire grandes sistemas."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Un buen arquitecto construye puertas, no paredes."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
