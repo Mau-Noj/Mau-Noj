@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Gano o Aprendo, Nunca pierdo..."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"En ingeniería, la elegancia no es opcional — es eficiencia disfrazada."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
