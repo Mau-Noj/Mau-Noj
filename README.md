@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Arch Linux: porque la simplicidad tiene que ganarse."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Un sistema bien diseñado no se nota — solo funciona."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
