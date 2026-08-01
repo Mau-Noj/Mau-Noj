@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Automatiza lo repetitivo. Piensa en lo que importa."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"La infraestructura es poesía cuando nadie la nota."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
