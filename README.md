@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Automatiza lo repetitivo. Piensa en lo que importa."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Diseña para el cambio, no para la perfección."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
