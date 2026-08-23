@@ -41,7 +41,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"La luna ha inspirado a muchos poetas… que tu análisis inspire grandes sistemas."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"El caos no es el problema — no tener un sistema para manejarlo sí lo es."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
