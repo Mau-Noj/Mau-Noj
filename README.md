@@ -130,19 +130,6 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 ---
 
-<!--
-  NOTA DE MANTENIMIENTO — Trophies descartado
-  ======================================================================
-  Se intentó auto-hospedar github-profile-trophy en Vercel (Mau-Noj lo
-  desplegó, tokens configurados, protección deshabilitada), pero el proyecto
-  tiene un bug real en su código: "TypeError: Relative import path
-  '@std/dotenv/load'" al ejecutar la función (runtime Deno en Vercel no
-  resuelve el import map). No es un problema de configuración de cuenta,
-  sino del propio repo github.com/ryo-ma/github-profile-trophy.
-  Se descartó por ahora. Si se retoma, revisar issues abiertos en ese repo
-  sobre el error de import antes de reintentar.
--->
-
 ## 📊 GitHub en Números
 
 <div align="center">
