@@ -130,30 +130,18 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 ---
 
-## 🏆 Trophies
-
 <!--
-  NOTA DE MANTENIMIENTO — Trophies pendiente de auto-hospedar
+  NOTA DE MANTENIMIENTO — Trophies descartado
   ======================================================================
-  Igual que con stats/activity-graph, la instancia pública de
-  github-profile-trophy también está saturada/deshabilitada.
-
-  Para activarla con tu propia instancia (gratis, ~2 min):
-    1. Ve a: https://vercel.com/new/clone?repository-url=https://github.com/ryo-ma/github-profile-trophy
-    2. Git Scope = Mau-Noj, Create
-    3. Settings → Environments → Production → Add Environment Variable
-       - Name: GITHUB_TOKEN1, Value: tu token (mismo que usaste para PAT_1/TOKEN)
-       - Name: GITHUB_TOKEN2, Value: el mismo token
-    4. Redeploy
-    5. Copia el dominio de "Domains" y reemplaza TU-TROPHY-DEPLOY.vercel.app abajo,
-       luego descomenta la línea <img>.
-
-  <div align="center">
-  <img src="https://TU-TROPHY-DEPLOY.vercel.app/?username=Mau-Noj&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
-  </div>
+  Se intentó auto-hospedar github-profile-trophy en Vercel (Mau-Noj lo
+  desplegó, tokens configurados, protección deshabilitada), pero el proyecto
+  tiene un bug real en su código: "TypeError: Relative import path
+  '@std/dotenv/load'" al ejecutar la función (runtime Deno en Vercel no
+  resuelve el import map). No es un problema de configuración de cuenta,
+  sino del propio repo github.com/ryo-ma/github-profile-trophy.
+  Se descartó por ahora. Si se retoma, revisar issues abiertos en ese repo
+  sobre el error de import antes de reintentar.
 -->
-
----
 
 ## 📊 GitHub en Números
 
