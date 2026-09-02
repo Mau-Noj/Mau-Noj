@@ -195,6 +195,9 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 <br/><br/>
 
 <!-- YOUTUBE_START -->
+<a href="https://www.youtube.com/watch?v=6lLxoX76vwM"><img src="https://i.ytimg.com/vi/6lLxoX76vwM/hqdefault.jpg" width="45%" alt="Último video" /></a>
+
+**🎬 Último video:** [[La Fisiología del sistema] Casos De uso vs Diagramas de Casos de uso](https://www.youtube.com/watch?v=6lLxoX76vwM)
 <!-- YOUTUBE_END -->
 
 </div>
