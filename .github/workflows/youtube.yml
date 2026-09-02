@@ -17,30 +17,31 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch latest video and update README
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python3 - <<'PY'
+          import json
+          import os
           import re
           import urllib.request
-          import xml.etree.ElementTree as ET
 
-          CHANNEL_ID = "UCiLwp9BQNx497pj3Z2nn-kA"
-          url = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
+          API_KEY = os.environ["YOUTUBE_API_KEY"]
+          # Playlist de "subidas" del canal: mismo ID que el canal, cambiando el
+          # prefijo "UC" por "UU" (convención de YouTube para la uploads playlist).
+          UPLOADS_PLAYLIST_ID = "UUiLwp9BQNx497pj3Z2nn-kA"
 
-          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-          with urllib.request.urlopen(req, timeout=15) as resp:
-              data = resp.read()
+          url = (
+              "https://www.googleapis.com/youtube/v3/playlistItems"
+              f"?part=snippet&maxResults=1&playlistId={UPLOADS_PLAYLIST_ID}&key={API_KEY}"
+          )
 
-          ns = {
-              "atom": "http://www.w3.org/2005/Atom",
-              "yt": "http://www.youtube.com/xml/schemas/2015",
-          }
-          root = ET.fromstring(data)
-          entry = root.find("atom:entry", ns)
-          if entry is None:
-              raise SystemExit("No entries found in feed")
+          with urllib.request.urlopen(url, timeout=15) as resp:
+              data = json.load(resp)
 
-          video_id = entry.find("yt:videoId", ns).text
-          title = entry.find("atom:title", ns).text
+          snippet = data["items"][0]["snippet"]
+          video_id = snippet["resourceId"]["videoId"]
+          title = snippet["title"]
 
           block = (
               f'<a href="https://www.youtube.com/watch?v={video_id}">'
