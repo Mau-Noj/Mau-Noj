@@ -13,17 +13,19 @@
 <a href="https://mauricionoj.com"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" /></a>
 <a href="https://linkedin.com/in/brandon-noj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://youtube.com/@programandoconpepito"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="mailto:brandoromero1964@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:brandonromero1964@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Mau-Noj&color=58A6FF&style=flat-square&label=Visitas+al+perfil" />
+<img src="https://img.shields.io/github/followers/Mau-Noj?style=flat-square&color=58A6FF&label=Followers&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=58A6FF&label=Repositorios&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMau-Noj" />
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Mau-Noj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5" />
+<img align="right" width="38%" src="https://github-readme-stats-opal-beta-24.vercel.app/api?username=Mau-Noj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5" />
 
 ### `> whoami`
 
@@ -59,7 +61,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-      <a href="https://mauricionoj.com">🔗 Ver en vivo →</a>
+      <a href="https://mauricionoj.com">🔗 Ver en vivo</a> · <a href="https://github.com/Mau-Noj/portafolio">💻 Ver código</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Compiler / AST Parser</h3>
@@ -68,6 +70,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/ANTLR-EC1C24?style=flat-square&logoColor=white" />
       </p>
+      <a href="https://github.com/Mau-Noj/Analizador_nomenclatura_qu-mica_ANTLR4">💻 Ver código</a>
     </td>
   </tr>
   <tr>
@@ -87,6 +90,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
+      <a href="https://github.com/Mau-Noj/flexicalc-api">💻 Ver código</a>
     </td>
   </tr>
 </table>
@@ -131,11 +135,11 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 <div align="center">
 
 <img height="175em" src="https://streak-stats.demolab.com/?user=Mau-Noj&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau-Noj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<img height="175em" src="https://github-readme-stats-opal-beta-24.vercel.app/api/top-langs/?username=Mau-Noj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mau-Noj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
+<img src="https://github-readme-activity-graph-peach-seven.vercel.app/graph?username=Mau-Noj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
 
 </div>
 
@@ -173,7 +177,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <a href="https://mauricionoj.com"><img src="https://img.shields.io/badge/🌐_mauricionoj.com-000000?style=for-the-badge" /></a>
 <a href="https://linkedin.com/in/brandon-noj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:brandoromero1964@gmail.com"><img src="https://img.shields.io/badge/brandoromero1964@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:brandonromero1964@gmail.com"><img src="https://img.shields.io/badge/brandonromero1964@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
