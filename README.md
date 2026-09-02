@@ -130,6 +130,31 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 ---
 
+## 🏆 Trophies
+
+<!--
+  NOTA DE MANTENIMIENTO — Trophies pendiente de auto-hospedar
+  ======================================================================
+  Igual que con stats/activity-graph, la instancia pública de
+  github-profile-trophy también está saturada/deshabilitada.
+
+  Para activarla con tu propia instancia (gratis, ~2 min):
+    1. Ve a: https://vercel.com/new/clone?repository-url=https://github.com/ryo-ma/github-profile-trophy
+    2. Git Scope = Mau-Noj, Create
+    3. Settings → Environments → Production → Add Environment Variable
+       - Name: GITHUB_TOKEN1, Value: tu token (mismo que usaste para PAT_1/TOKEN)
+       - Name: GITHUB_TOKEN2, Value: el mismo token
+    4. Redeploy
+    5. Copia el dominio de "Domains" y reemplaza TU-TROPHY-DEPLOY.vercel.app abajo,
+       luego descomenta la línea <img>.
+
+  <div align="center">
+  <img src="https://TU-TROPHY-DEPLOY.vercel.app/?username=Mau-Noj&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+  </div>
+-->
+
+---
+
 ## 📊 GitHub en Números
 
 <div align="center">
@@ -166,6 +191,11 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 <br/>
 
 [![Canal de YouTube](https://img.shields.io/badge/▶_Ir_al_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000)](https://youtube.com/@programandoconpepito)
+
+<br/><br/>
+
+<!-- YOUTUBE_START -->
+<!-- YOUTUBE_END -->
 
 </div>
 
