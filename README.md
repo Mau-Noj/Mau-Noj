@@ -43,7 +43,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Todo problema de ingeniería es un problema de diseño mal entendido."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"El mejor código es el que no necesitas escribir."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
