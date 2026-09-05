@@ -43,7 +43,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"El mejor código es el que no necesitas escribir."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"La infraestructura es poesía cuando nadie la nota."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
