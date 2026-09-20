@@ -43,7 +43,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"Un buen arquitecto construye puertas, no paredes."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"El mejor código es el que no necesitas escribir."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
