@@ -43,7 +43,7 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 
 <br/>
 
-> 💬 <!-- QUOTE_START -->*"La infraestructura es poesía cuando nadie la nota."*<!-- QUOTE_END -->
+> 💬 <!-- QUOTE_START -->*"Documenta como si el próximo desarrollador fuera tú, seis meses después."*<!-- QUOTE_END -->
 
 <br clear="right"/>
 
