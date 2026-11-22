@@ -170,9 +170,9 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 <br/><br/>
 
 <!-- YOUTUBE_START -->
-<a href="https://www.youtube.com/watch?v=7SQTk7r3JDk"><img src="https://i.ytimg.com/vi/7SQTk7r3JDk/hqdefault.jpg" width="45%" alt="Último video" /></a>
+<a href="https://www.youtube.com/watch?v=Tmp_khfIenw"><img src="https://i.ytimg.com/vi/Tmp_khfIenw/hqdefault.jpg" width="45%" alt="Último video" /></a>
 
-**🎬 Último video:** [¿Te llegó un SMS del banco? No toques el enlace 🚨](https://www.youtube.com/watch?v=7SQTk7r3JDk)
+**🎬 Último video:** [Diagrama de Casos de Uso PASO A PASO (include, extend y los 4 errores que todos cometen)](https://www.youtube.com/watch?v=Tmp_khfIenw)
 <!-- YOUTUBE_END -->
 
 </div>
