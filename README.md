@@ -170,9 +170,9 @@ pasión    : Open Source · Linux · Arquitectura de Sistemas
 <br/><br/>
 
 <!-- YOUTUBE_START -->
-<a href="https://www.youtube.com/watch?v=Tmp_khfIenw"><img src="https://i.ytimg.com/vi/Tmp_khfIenw/hqdefault.jpg" width="45%" alt="Último video" /></a>
+<a href="https://www.youtube.com/watch?v=sW7tIPUK2Tw"><img src="https://i.ytimg.com/vi/sW7tIPUK2Tw/hqdefault.jpg" width="45%" alt="Último video" /></a>
 
-**🎬 Último video:** [Diagrama de Casos de Uso PASO A PASO (include, extend y los 4 errores que todos cometen)](https://www.youtube.com/watch?v=Tmp_khfIenw)
+**🎬 Último video:** [¿Todavía llevas tu negocio en un cuaderno?](https://www.youtube.com/watch?v=sW7tIPUK2Tw)
 <!-- YOUTUBE_END -->
 
 </div>
